@@ -20,7 +20,6 @@ agents:
     knowledge_sources: []
     system_tools: []
     mcp_connection_ids: []
-    llm_model: null
     llm_max_tokens: null
     max_iterations: 30
     max_token_budget: 100000
